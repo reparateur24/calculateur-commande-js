@@ -11,5 +11,5 @@ Module JavaScript (`index.js`) dédié au calcul d'un total de commande (sous-to
 ## Lancer le fichier en local
 1. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/reparateur24/calculateur-commande-js.git](https://github.com/reparateur24/calculateur-commande-js.git)
+   git clone https://github.com/reparateur24/calculateur-commande-js.git(https://github.com/reparateur24/calculateur-commande-js.git)
 
